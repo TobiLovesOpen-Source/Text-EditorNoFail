@@ -1,0 +1,14 @@
+/home/pc/Projekt/Text-EditorNoFail/src-tauri/target/aarch64-linux-android/release/deps/serde-29b34c5b46fd4642.d: /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /home/pc/Projekt/Text-EditorNoFail/src-tauri/target/aarch64-linux-android/release/build/serde-4a72bb323bbfc5de/out/private.rs
+
+/home/pc/Projekt/Text-EditorNoFail/src-tauri/target/aarch64-linux-android/release/deps/libserde-29b34c5b46fd4642.rlib: /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /home/pc/Projekt/Text-EditorNoFail/src-tauri/target/aarch64-linux-android/release/build/serde-4a72bb323bbfc5de/out/private.rs
+
+/home/pc/Projekt/Text-EditorNoFail/src-tauri/target/aarch64-linux-android/release/deps/libserde-29b34c5b46fd4642.rmeta: /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /home/pc/Projekt/Text-EditorNoFail/src-tauri/target/aarch64-linux-android/release/build/serde-4a72bb323bbfc5de/out/private.rs
+
+/home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs:
+/home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs:
+/home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs:
+/home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs:
+/home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs:
+/home/pc/Projekt/Text-EditorNoFail/src-tauri/target/aarch64-linux-android/release/build/serde-4a72bb323bbfc5de/out/private.rs:
+
+# env-dep:OUT_DIR=/home/pc/Projekt/Text-EditorNoFail/src-tauri/target/aarch64-linux-android/release/build/serde-4a72bb323bbfc5de/out

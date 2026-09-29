@@ -1,0 +1,7 @@
+/home/pc/Projekt/Text-EditorNoFail/src-tauri/target/armv7-linux-androideabi/release/deps/stable_deref_trait-f5a221fca17785ba.d: /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stable_deref_trait-1.2.1/src/lib.rs
+
+/home/pc/Projekt/Text-EditorNoFail/src-tauri/target/armv7-linux-androideabi/release/deps/libstable_deref_trait-f5a221fca17785ba.rlib: /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stable_deref_trait-1.2.1/src/lib.rs
+
+/home/pc/Projekt/Text-EditorNoFail/src-tauri/target/armv7-linux-androideabi/release/deps/libstable_deref_trait-f5a221fca17785ba.rmeta: /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stable_deref_trait-1.2.1/src/lib.rs
+
+/home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stable_deref_trait-1.2.1/src/lib.rs:

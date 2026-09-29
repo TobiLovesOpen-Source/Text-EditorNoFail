@@ -1,0 +1,6 @@
+/home/pc/Projekt/Text-EditorNoFail/src-tauri/target/release/build/rustversion-041754be9325974e/build_script_build-041754be9325974e.d: /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustversion-1.0.23/build/build.rs /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustversion-1.0.23/build/rustc.rs
+
+/home/pc/Projekt/Text-EditorNoFail/src-tauri/target/release/build/rustversion-041754be9325974e/build_script_build-041754be9325974e: /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustversion-1.0.23/build/build.rs /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustversion-1.0.23/build/rustc.rs
+
+/home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustversion-1.0.23/build/build.rs:
+/home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustversion-1.0.23/build/rustc.rs:

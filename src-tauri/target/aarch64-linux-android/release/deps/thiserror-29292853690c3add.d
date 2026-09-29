@@ -1,0 +1,14 @@
+/home/pc/Projekt/Text-EditorNoFail/src-tauri/target/aarch64-linux-android/release/deps/thiserror-29292853690c3add.d: /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/lib.rs /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/aserror.rs /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/display.rs /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/var.rs /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/private.rs /home/pc/Projekt/Text-EditorNoFail/src-tauri/target/aarch64-linux-android/release/build/thiserror-a6f2abe607fbdf31/out/private.rs
+
+/home/pc/Projekt/Text-EditorNoFail/src-tauri/target/aarch64-linux-android/release/deps/libthiserror-29292853690c3add.rlib: /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/lib.rs /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/aserror.rs /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/display.rs /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/var.rs /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/private.rs /home/pc/Projekt/Text-EditorNoFail/src-tauri/target/aarch64-linux-android/release/build/thiserror-a6f2abe607fbdf31/out/private.rs
+
+/home/pc/Projekt/Text-EditorNoFail/src-tauri/target/aarch64-linux-android/release/deps/libthiserror-29292853690c3add.rmeta: /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/lib.rs /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/aserror.rs /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/display.rs /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/var.rs /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/private.rs /home/pc/Projekt/Text-EditorNoFail/src-tauri/target/aarch64-linux-android/release/build/thiserror-a6f2abe607fbdf31/out/private.rs
+
+/home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/lib.rs:
+/home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/aserror.rs:
+/home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/display.rs:
+/home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/var.rs:
+/home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/private.rs:
+/home/pc/Projekt/Text-EditorNoFail/src-tauri/target/aarch64-linux-android/release/build/thiserror-a6f2abe607fbdf31/out/private.rs:
+
+# env-dep:OUT_DIR=/home/pc/Projekt/Text-EditorNoFail/src-tauri/target/aarch64-linux-android/release/build/thiserror-a6f2abe607fbdf31/out
