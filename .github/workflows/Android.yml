@@ -31,12 +31,7 @@ jobs:
           distribution: 'temurin'
           java-version: '17'
 
-      - name: Build Tauri Android
-        uses: tauri-apps/tauri-action@v0.5.0
+      - name: Build Android with Tauri CLI
+        run: npx tauri android build --target aarch64-linux-android
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          args: --target aarch64-linux-android
-          includeRelease: true
-          includeDebug: false
-          includeUpdaterJson: false
