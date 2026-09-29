@@ -24,7 +24,7 @@ jobs:
       - name: Setup Java
         uses: actions/setup-java@v4
         with:
-          distribution: 'templum'
+          distribution: 'temurin'
           java-version: '17'
 
       - name: Build Tauri Android
