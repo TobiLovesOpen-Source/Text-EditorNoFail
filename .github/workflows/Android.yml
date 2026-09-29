@@ -32,6 +32,6 @@ jobs:
           java-version: '17'
 
       - name: Build Android with Tauri CLI
-        run: npx tauri android build --target aarch64-linux-android
+        run: npx tauri android build --target aarch64
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
