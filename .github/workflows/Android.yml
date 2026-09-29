@@ -21,6 +21,10 @@ jobs:
       - name: install Rust stable
         uses: dtolnay/rust-toolchain@stable
 
+      - name: Install Rust Android targets
+        run: |
+          rustup target add aarch64-linux-android armv7-linux-android x86_64-linux-android i686-linux-android
+
       - name: Setup Java
         uses: actions/setup-java@v4
         with:
