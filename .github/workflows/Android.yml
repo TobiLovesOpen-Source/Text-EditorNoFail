@@ -2,28 +2,29 @@ name: Build Android APK
 
 on:
   push:
-    branches: [ main ]
+    branches: [ "main" ]
 
 jobs:
   build-android:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
 
-      - name: setup node
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 20
+          cache: 'npm'
 
-      - name: install dependencies
+      - name: Install dependencies
         run: npm install
 
-      - name: install Rust stable
+      - name: Install Rust stable
         uses: dtolnay/rust-toolchain@stable
-
-      - name: Install Rust Android targets
-        run: |
-          rustup target add aarch64-linux-android x86_64-linux-android
+        with:
+          targets: aarch64-linux-android
 
       - name: Setup Java
         uses: actions/setup-java@v4
@@ -35,3 +36,9 @@ jobs:
         run: npx tauri android build --target aarch64
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload APK Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: textscribe-apk
+          path: src-tauri/gen/android/app/build/outputs/apk/release/
