@@ -33,12 +33,12 @@ jobs:
           java-version: '17'
 
       - name: Build Android with Tauri CLI
-        run: npx tauri android build --target aarch64
+        run: npx tauri android build --target aarch64 --debug
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Upload APK Artifact
         uses: actions/upload-artifact@v4
         with:
-          name: textscribe-apk
+          name: textscribe-debug-apk
           path: src-tauri/gen/android/app/build/outputs/apk/**/*.apk
